@@ -1,2 +1,3 @@
-SHA256 (secp256k1-0.0.0.1.tar.gz) = 0f9734d1d33b94b41e205df5b5937f33b347a8b8745b6bbcee0f6bff233c1d40
-SIZE (secp256k1-0.0.0.1.tar.gz) = 79780
+TIMESTAMP = 1564353552
+SHA256 (bitcoin-core-secp256k1-0.0.0.1-729badf_GH0.tar.gz) = 58fa854ef89d3caef26064a1321a4dd0ca984f5d5812cef03bc1f246e6d01a63
+SIZE (bitcoin-core-secp256k1-0.0.0.1-729badf_GH0.tar.gz) = 79762
